@@ -14,4 +14,3 @@ TASK: Writing a program, which receives in input, as command-line arguments, two
 
 4-Print the T products with largest maximum normalized rating, one product per line. (Hint: use a combination of sortByKey and take methods.) 
 
-To test your program you can use file input_20K.csv, which contains 20000 reviews. 
